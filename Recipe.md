@@ -7,6 +7,6 @@ There's nothing intuitive about boiling pasta. Yet many pasta recipes don't offe
 * And yes don't forget to add the special 'species' given with the box (if any), they give the main taste to it.
     * (Optional) Also you can add Tomato, Chilly, and Soya sauce if you wish (It increases the taste).
     
-And that's all, only these five steps and your tasty pasta is done, just serve it and enjoy it with your family and friends.
+And that's all, only these five steps and your tasty pasta is ready, just serve it and enjoy it with your family and friends.
 
 Hope you liked this.
