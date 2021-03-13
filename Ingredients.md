@@ -6,3 +6,5 @@
 * (Optional) Tomato Sauce, Chily Sauce, and Soya sauce.
 
 And that's all just these items are needed to make your Pasta ready to be eaten.
+
+Now to go to [Recipe.md](Recipe.md) to so how to make it.
