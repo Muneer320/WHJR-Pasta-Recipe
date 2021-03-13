@@ -1,4 +1,4 @@
-# WHJR-Pasta-Recipe
+# Pasta-Recipe
 
 In this tutorial I am going to make pasta, so come on with me and, let's hop into it and see how to make it.
 
