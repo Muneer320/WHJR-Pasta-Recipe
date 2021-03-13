@@ -4,7 +4,7 @@ There's nothing intuitive about boiling pasta. Yet many pasta recipes don't offe
 * When it's boiling (you'll see big bubbles in the water and steam rising from the pot), add your pasta.
 * After it comes to a boil again, set a timer to the minutes specified on the pasta box, adjusting the flame downward if it begins boiling over, which sometimes happens.
 * When the timer goes off, drain and rinse the pasta in cool water to stop the cooking process.
-* And yes don't forget to add the special 'species given with the box (if any), they give the main taste to it.
+* And yes don't forget to add the special 'species' given with the box (if any), they give the main taste to it.
     * (Optional) Also you can add Tomato, Chilly, and Soya sauce if you wish (It increases the taste).
     
 And that's all, only these five steps and your tasty pasta is done, just serve it and enjoy it with your family and friends.
